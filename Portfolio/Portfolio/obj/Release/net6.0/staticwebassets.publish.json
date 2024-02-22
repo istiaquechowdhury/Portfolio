@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ynnc0uMOqpouWg0H6cITlSpTGKwZq4o7w6y0JfWRUVc=",
+  "Hash": "j5eDKN/xA+iENDtzjaXWb3ofJIPawa+00yRWapEox68=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\DCL\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\Istiaquechowddhury.jpg",
+      "Identity": "C:\\Users\\DCL\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\Istiaque.jpg",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\DCL\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\",
       "BasePath": "_content/Portfolio",
-      "RelativePath": "assets/img/Istiaquechowddhury.jpg",
+      "RelativePath": "assets/img/Istiaque.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,7 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\Istiaquechowddhury.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\Istiaque.jpg"
     },
     {
       "Identity": "C:\\Users\\DCL\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\assets\\img\\portfolio\\portfolio-1.jpg",
